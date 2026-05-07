@@ -24,3 +24,10 @@ El objetivo de este proyecto es practicar los comandos básicos de Git:
 ## Estado del proyecto
 
 Proyecto en fase de aprendizaje.
+
+## Próximos pasos
+
+- Practicar ramas en Git.
+- Conectar el repositorio con GitHub.
+- Subir el proyecto a un repositorio remoto.
+- Crear una estructura más profesional.
