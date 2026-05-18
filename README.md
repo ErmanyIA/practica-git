@@ -31,3 +31,7 @@ Proyecto en fase de aprendizaje.
 - Conectar el repositorio con GitHub.
 - Subir el proyecto a un repositorio remoto.
 - Crear una estructura más profesional.
+
+## Actualización desde GitHub
+
+Este cambio se ha realizado directamente desde GitHub para practicar git pull.
