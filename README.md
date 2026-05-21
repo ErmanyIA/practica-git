@@ -35,3 +35,7 @@ Proyecto en fase de aprendizaje.
 ## Actualización desde GitHub
 
 Este cambio se ha realizado directamente desde GitHub para practicar git pull.
+
+## Trabajo con ramas
+
+Este apartado se ha añadido desde la rama `mejora-readme` para practicar el uso de ramas en Git.
