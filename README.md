@@ -39,3 +39,9 @@ Este cambio se ha realizado directamente desde GitHub para practicar git pull.
 ## Trabajo con ramas
 
 Este apartado se ha añadido desde la rama `mejora-readme` para practicar el uso de ramas en Git.
+
+## Rutina de trabajo
+
+Antes de empezar a trabajar en un proyecto con Git, revisaré el estado con `git status` y actualizaré con `git pull`.
+
+Al terminar, guardaré los cambios con `git add`, `git commit` y `git push`.
