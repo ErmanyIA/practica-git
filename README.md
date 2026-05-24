@@ -45,3 +45,14 @@ Este apartado se ha añadido desde la rama `mejora-readme` para practicar el uso
 Antes de empezar a trabajar en un proyecto con Git, revisaré el estado con `git status` y actualizaré con `git pull`.
 
 Al terminar, guardaré los cambios con `git add`, `git commit` y `git push`.
+
+## Mini examen Git
+
+He practicado el flujo completo de Git y GitHub:
+
+- Crear commits.
+- Usar ramas.
+- Subir cambios a GitHub.
+- Traer cambios con pull.
+- Resolver conflictos básicos.
+- Usar gitignore para proteger archivos sensibles.
